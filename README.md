@@ -3,9 +3,8 @@
 A front-end clone of the Amazon homepage built using **HTML5 and CSS3**. This project recreates the visual layout of Amazon's shopping homepage, including its navigation bar, search section, hero banner, product category cards, and footer.
 
 ## 📸 Project Preview
+<img width="1521" height="2769" alt="127 0 0 1_5500_ (1)" src="https://github.com/user-attachments/assets/ad565704-d60e-4a4c-9743-9a2e4bf80947" />
 
-![Amazon Clone Homepage](<img width="1521" height="2769" alt="127 0 0 1_5500_ (1)" src="https://github.com/user-attachments/assets/5df3b46c-561b-4746-b2ee-7d8c3a99d81e" />
-)
 
 ## ✨ Features
 
